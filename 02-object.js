@@ -18,10 +18,10 @@ const person = {
 
 /// EDIT HERE
 
-person.name = "Syaipuddin Muda Pane";
+person.name = "Azadin Azhar Purba";
 for(let i=0; i < person.favDrinks.length; i++){
     if(person.favDrinks[i].search("temulawak") >= 0){
-        person.favDrinks[i] = "more coffee";
+        person.favDrinks[i] = "Jus Pokat";
     }
 }
 
